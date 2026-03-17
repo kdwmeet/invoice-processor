@@ -61,3 +61,5 @@ uv run streamlit run main.py
 * **중첩 구조(Nested Structure) 생성**: 여러 개의 구매 품목이 items라는 키 값 하위의 리스트(List) 형태로 누락 없이 모두 분리되어 담기는지 확인합니다.
 
 ## 7. 실행 화면
+<img width="1360" height="790" alt="스크린샷 2026-03-17 091822" src="https://github.com/user-attachments/assets/22b0de3e-efdc-4b98-a6d2-92fbdbfaf67a" />
+
